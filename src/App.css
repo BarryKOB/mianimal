@@ -1,0 +1,11 @@
+body {
+  margin: auto;
+}
+
+button {
+  padding: 20px;
+  color: black;
+  background-color: burlywood;
+  border: 1px solid black;
+}
+
